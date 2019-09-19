@@ -1,0 +1,53 @@
+h1 {
+  font-size: 90px;
+  font-family: lucida;
+  color: gold;
+}
+.big-image {
+  width: 600px;
+}
+.container {
+  background-color: black;
+  color: gold;
+}
+body {
+  margin-top: 20px;
+  background-color: black;
+}
+.img-displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.smaller-image {
+  width: 478px;
+}
+a {
+  color: red;
+  font-size: 110%;
+}
+.thumbnail {
+  background-color: black;
+  border-color: black;
+}
+.alternative {
+  padding-bottom: 41px;
+}
+ul {
+  font-size: 18px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  list-style:none;
+}
+hr {
+  border-color: black;
+}
+blockquote {
+  border-color: black;
+}
+.yellow {
+  color: gold;
+}
+li {
+  margin-bottom: 20px;
+}
